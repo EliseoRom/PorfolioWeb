@@ -10,7 +10,7 @@
 }
 .web-option a{
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgba(47, 39, 112, 0.774);
     display: flex;
     align-items: center;
 }
