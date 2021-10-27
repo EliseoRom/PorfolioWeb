@@ -16,7 +16,7 @@ export const ProjectsData = [
         about: 'The app was created with a development team at Henry bootcamp It has all the functionalities of a virtual supermarket and admin panel',
         tags: ['React', 'NodeJs', 'express', 'HTML', 'JavaScript', 'materialUI', 'MongoDB', 'Redux', 'CSS'],
         github: 'https://github.com/EliseoRom/Henry-PF',
-        demo: 'https://www.youtube.com/watch?v=sMeybf-Z5Tc',
+        demo: 'https://e-market-front-chappetm.vercel.app/promotions#',
         image: require('../Utils/Icons/market.jpg').default
     },
     {
