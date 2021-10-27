@@ -31,7 +31,7 @@ export const ProjectsData = [
     {
         id: 4,
         title: 'Real Time Weather app',
-        about: 'This App was created in Henry s bootcamp, which gave us tools to develop it Using JavaScript, CSS, and React technologies, the Web collects data through an external openWeatherMap API that keeps weather data up-to-date'
+        about: 'This App was created in Henry s bootcamp, which gave us tools to develop it Using JavaScript, CSS, and React technologies, the Web collects data through an external openWeatherMap API that keeps weather data up-to-date',
         tags: [ 'HTML', 'JavaScript','CSS', 'React'],
         github: 'https://github.com/EliseoRom/WeatherApp',
         demo: 'https://real-time-weather.vercel.app/',
